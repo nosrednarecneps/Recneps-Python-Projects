@@ -1,0 +1,1 @@
+A bunch of silly python projects that I've built over the years that has helped me learn the fundamentals of programming. My most notable project that I still use to this day is the YouTube Downloader Script. If you yourself is a content creator, I recommend using this tool (trust me, you won't get any viruses, unlike other places)
